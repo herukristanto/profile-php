@@ -14,7 +14,7 @@
   <div class="navbar-fixed">  
     <nav class="light-blue lighten-1" role="navigation">
       <div class="nav-wrapper container">
-        <a id="logo-container" href="index.php" class="brand-logo">Heru Kristanto</a>
+        <a id="logo-container" href="index.php" class="brand-logo">Heru App</a>
           <ul class="right hide-on-med-and-down">
             <li><a href="#home">Home</a></li>
             <li><a href="#portfolio">Portfolio</a></li>
@@ -64,69 +64,54 @@
       <br><br><br>
       <h3 class="header center light">Portfolio</h3>
 
-      <div class="col s3">
+      <div class="col s12 m4">
         <div class="card">
-          <div class="card-image">
-            <img src="images/gallery/thumb-1.jpg">
-            <span class="card-title">CRUD RoR</span>
+          <div class="card-image waves-effect waves-block waves-light">
+            <img class="activator" src="images/gallery/thumb-1.jpg">
           </div>
-            <div class="card-content">
-              <p>I am a very simple card. I am good at containing small bits of information.
-              I am convenient because I require little markup to use effectively.</p>
-            </div>
-          <div class="card-action">
-            <a href="https://app-0033.herokuapp.com/">This is a link</a>
+          <div class="card-content">
+            <span class="card-title activator grey-text text-darken-4">SPK Hotel Admin<i class="material-icons right">more_vert</i></span>
+            <p><a href="https://spk-hotel.herokuapp.com/">This is a link</a></p>
+          </div>
+          <div class="card-reveal">
+            <span class="card-title grey-text text-darken-4">Card Title<i class="material-icons right">close</i></span>
+            <p>Here is some more information about this product that is only revealed once clicked on.</p>
           </div>
         </div>
       </div>
 
-      <div class="col s3">
+      <div class="col s12 m4">
         <div class="card">
-          <div class="card-image">
-            <img src="images/gallery/image-2.jpg">
-            <span class="card-title">SPK Hotel Admin</span>
+          <div class="card-image waves-effect waves-block waves-light">
+            <img class="activator" src="images/gallery/image-2.jpg">
           </div>
           <div class="card-content">
-            <p>I am a very simple card. I am good at containing small bits of information.
-            I am convenient because I require little markup to use effectively.</p>
+            <span class="card-title activator grey-text text-darken-4">CRUD RoR<i class="material-icons right">more_vert</i></span>
+            <p><a href="https://app-0033.herokuapp.com/">This is a link</a></p>
           </div>
-          <div class="card-action">
-            <a href="https://spk-hotel.herokuapp.com/">This is a link</a>
+          <div class="card-reveal">
+            <span class="card-title grey-text text-darken-4">Card Title<i class="material-icons right">close</i></span>
+            <p>Here is some more information about this product that is only revealed once clicked on.</p>
           </div>
         </div>
       </div>
 
-      <div class="col s3">
+      <div class="col s12 m4">
         <div class="card">
-          <div class="card-image">
-            <img src="images/gallery/image-3.jpg">
-            <span class="card-title">SPK Hotel Client</span>
+          <div class="card-image waves-effect waves-block waves-light">
+            <img class="activator" src="images/gallery/image-3.jpg">
           </div>
           <div class="card-content">
-            <p>I am a very simple card. I am good at containing small bits of information.
-            I am convenient because I require little markup to use effectively.</p>
+            <span class="card-title activator grey-text text-darken-4">SPK Hotel Client<i class="material-icons right">more_vert</i></span>
+            <p><a href="https://spk-hotel.herokuapp.com/wisatawan/public/listdata.php">This is a link</a></p>
           </div>
-          <div class="card-action">
-            <a href="https://spk-hotel.herokuapp.com/wisatawan/public/listdata.php">This is a link</a>
+          <div class="card-reveal">
+            <span class="card-title grey-text text-darken-4">Card Title<i class="material-icons right">close</i></span>
+            <p>Here is some more information about this product that is only revealed once clicked on.</p>
           </div>
         </div>
       </div>
-
-      <div class="col s3">
-        <div class="card">
-          <div class="card-image">
-            <img src="images/gallery/image-4.jpg">
-            <span class="card-title">SIAKAD</span>
-          </div>
-          <div class="card-content">
-            <p>I am a very simple card. I am good at containing small bits of information.
-            I am convenient because I require little markup to use effectively.</p>
-          </div>
-          <div class="card-action">
-            <a href="#">This is a link</a>
-          </div>
-        </div>
-      </div>
+  
     </div>
   </div>
 </section>
