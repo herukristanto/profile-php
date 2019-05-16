@@ -70,8 +70,8 @@
             <img class="activator" src="images/gallery/thumb-1.jpg">
           </div>
           <div class="card-content">
-            <span class="card-title activator grey-text text-darken-4">SPK Hotel Admin<i class="material-icons right">more_vert</i></span>
-            <p><a href="https://spk-hotel.herokuapp.com/">This is a link</a></p>
+            <span class="card-title activator grey-text text-darken-4">Social Media<i class="material-icons right">more_vert</i></span>
+            <p><a href="https://app1-tweet.herokuapp.com/">This is a link</a></p>
           </div>
           <div class="card-reveal">
             <span class="card-title grey-text text-darken-4">Card Title<i class="material-icons right">close</i></span>
