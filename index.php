@@ -3,7 +3,8 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0"/>
-  <meta name="msapplication-navbutton-color" content="#29B6F6">
+  <meta name="msapplication-navbutton-color" content="#29B6F6"/>
+  <meta name="theme-color" content="#29B6F6"/>
   <title>Heru Kristanto - Portfolio</title>
 
   <!-- CSS  -->
