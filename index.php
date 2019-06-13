@@ -170,7 +170,7 @@
           </div>
         </form>
       </div>
-
+<?php
       $statusMsg = '';
 $msgClass = '';
 if(isset($_POST['submit'])){
@@ -217,7 +217,7 @@ if(isset($_POST['submit'])){
         $msgClass = 'errordiv';
     }
 }
-
+?>
     </div>
   </div>
   <br><br>
