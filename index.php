@@ -166,7 +166,7 @@
               <textarea name="massage" id="massage" class="materialize-textarea"></textarea>
               <label for="massage">Massage</label>
             </div>
-            <button type="submit" class="btn orange">Send</button>
+            <button type="submit" name="submit" value="Submit" class="btn orange">Send</button>
           </div>
         </form>
       </div>
